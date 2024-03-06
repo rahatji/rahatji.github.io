@@ -1,9 +1,10 @@
 # Jahidul Islam Rahat 
 
-- +1(204)-293-3534 
-- <rahat11318914@gmail.com>
-- <https://www.linkedin.com/in/jahidul-islam-rahat-a3587b218/>
-- <https://github.com/>
+![phone](./img/icons8-phone-50.png) +1(204)-293-3534 
+![email](./img/icons8-email-50.png) <rahat11318914@gmail.com>
+![address](./img/icons8-address-50.png) 214-960 Chancellor Dr, Winnipeg, MB R3T 2K1
+![linkdin](./img/icons8-linkedin-50.png)<https://www.linkedin.com/in/jahidul-islam-rahat-a3587b218/>
+![github](./img/icons8-github-50.png)<https://github.com/>
 
 **PROFILE**
 

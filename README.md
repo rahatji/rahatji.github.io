@@ -102,7 +102,7 @@ You have completed hosting your resume online on GitHub .
 
 Your resuume will look like something like this when you go to a url using the follwing URL address rule:
   *YourUserName*.github.io 
-  [!resume](https://i.makeagif.com/media/3-07-2024/V2-FwS.gif)
+  ![resume](https://i.makeagif.com/media/3-07-2024/V2-FwS.gif)
   
 #### More Resources
 * [Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  

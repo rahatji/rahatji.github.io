@@ -102,6 +102,7 @@ You have completed hosting your resume online on GitHub .
 
 Your resuume will look like something like this when you go to a url using the follwing URL address rule:
   *YourUserName*.github.io 
+  [!resume](https://i.makeagif.com/media/3-07-2024/V2-FwS.gif)
   
 #### More Resources
 * [Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
@@ -122,4 +123,10 @@ And also Thanks to all my group members for helping me .
 > Ensure that your resume is named 'index.md.'
 
 **How do I change a theme?**
-> In your '_config.yml' file, just indicate the name of an alternative theme from this [source].(https://pages.github.com/themes/). 
+> In your '_config.yml' file, just indicate the name of an alternative theme from this [source].(https://pages.github.com/themes/).
+
+### Software stack 
+- Markdown
+- Visual Studio Code
+- Dillinger
+- Git Hub

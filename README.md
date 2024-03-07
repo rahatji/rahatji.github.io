@@ -100,7 +100,7 @@ After you have created your repository
 #### Conclusion 
 You have completed hosting your resume online on GitHub .
 
-Your resuume will look like something like this when you go to a url using the follwing URL address rule:
+Your resume will look like something like this when you go to a url using the follwing URL address rule:
   *YourUserName*.github.io 
   ![resume](https://i.makeagif.com/media/3-07-2024/V2-FwS.gif)
   

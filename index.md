@@ -1,11 +1,12 @@
 # Jahidul Islam Rahat 
 
 ![phone](./img/icons8-phone-50.png) +1(204)-293-3534  ![address](./img/icons8-address-50.png)  214-960 Chancellor Dr, Winnipeg, MB R3T 2K1
+
 [![email](./img/icons8-email-50.png)](mailto:rahat11318914@gmail.com)  [![linkedin](./img/icons8-linkedin-50.png)](https://www.linkedin.com/in/jahidul-islam-rahat-a3587b218)  [![github](./img/icons8-github-50.png)](https://github.com/rahatji)
 
 **PROFILE**
 
-An organized and motivated Computer science student currently enrolled at the University of Manitoba. Able to adapt to new environments, and master knowledge quickly with solid technical computer skills. Good team player; able to communicate effectively with people from different cultures to achieve team goals. Positive, work well with people, can communicate clearly and listen carefully with excellent presentation skills.
+An organized and motivated computer science student currently enrolled at the University of Manitoba. Capable of adapting to new environments and quickly mastering knowledge with solid technical computer skills. A good team player, able to communicate effectively with people from different cultures to achieve team goals. Positive, works well with others, communicates clearly, and listens carefully with excellent presentation skills..
 
 **EDUCATION**
 

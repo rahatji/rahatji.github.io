@@ -13,9 +13,9 @@ A guide on creating a static website to host a resume using Markdown, GitHub Pag
 
 ### Prerequisites
 
-- Git Hub account
+- GitHub account
 - a resume formatted in markdown
-- How to use git
+- Knowledge of git usage
 
 #### Markdown-Formatted Resume
 Markdown, a simple markup language created by John Gruber and Aaron Swartz in 2004, offers a straightforward way to generate stylized content in a plain text editor. The primary goal of Markdown is to empower individuals to write in a plain text format that is easy to both read and write.
@@ -47,7 +47,6 @@ Markdown is the most widely used lightweight markup language in the world, and t
 >* [ReText](https://codepre.com/how-to-install-retext-restructuredtext-editor-in-ubuntu-a-markdown-editor-for-linux.html) (Linux)   
 
 **Notes** 
-
 - If you decide to host your resume on GitHub, make sure to utilize the [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/). This version of Markdown has been specifically tailored to the GitHub infrastructure. To ensure optimal performance and avoid rendering issues when publishing your resume on GitHub, refrain from using any other Markdown version.
 - name and save your resume file as `index.md` .
 
@@ -56,13 +55,13 @@ Markdown is the most widely used lightweight markup language in the world, and t
 
 
 #### Installing Git
-1. Visit and follow instructions on this [link](https://github.com/git-guides/install-git) for installiing git in your system
+1. Visit and follow instructions on this [link](https://github.com/git-guides/install-git) for installing git in your system
 
 
 
 #### Creating an Account 
 1. Go to [GitHub](https://github.com/)
-2. Select Sign up
+2. Click on Sign up
 3. Enter your email first and then set your password
 4. Then enter your username
 5. Verify your account from your email address and you are all set
@@ -72,9 +71,9 @@ Markdown is the most widely used lightweight markup language in the world, and t
 2. Sign in to your account
 3. Click on Repositories 
 3. Click the New Button - **Green Button on the top left of the screen**
-4. Name you repository using the format - *YourUserName*.github.io
-5. Then click on Create repository - **Bottom of the screen**
- 
+4. Name your repository using the format - *YourUserName*.github.io
+5. Click on Create repository - **Bottom of the screen**
+
 
 **Note:** The naming convention for the repository (YourUserName.github.io) is important as it is the default format recognized by GitHub Pages for personal websites.
 
@@ -84,29 +83,29 @@ After you have created your repository
 2. Select "Upload files" from the drop down menu
 3. Drag and drop your 'index.md' file from your computer.
 4. You can also select "Choose your files' and it will let you select and upload
-    your desired 'idex.md' file from your computer's local directry.
+    your desired 'index.md' file from your computer's local directry.
 5. Then click on the green "Commit changes" located at the bottom to ulpoad your 'index.md' file.
 
-**Note:** You resume must be named as index.md
+**Note:** Your resume must be named as index.md
 
 
 #### 3. Hosting your Resume using GitHub Pages
 >As per Etter in "Modern Technical Writing," static websites are recommended for documentation due to their independence from dependencies and ease of deployment. GitHub Pages, in alignment with this philosophy, utilizes Jekyll to host static content, offering the added advantage of applying themes to enhance the appearance and professionalism of documentation. 
 
 1. Go to your repository and click on Settings
-2. Find the **Pages** section from the sidebar
+2. Navigate to the **Pages** section from the sidebar
 3. Make sure that the 'main' branch is chosen as source and **Save**
 
 #### Conclusion 
 You have completed hosting your resume online on GitHub .
 
-Your resume will look like something like this when you go to a url using the follwing URL address rule:
-  *YourUserName*.github.io 
+Your resume will be accessible at the following URL: *YourUserName.github.io*.
   ![resume](https://i.makeagif.com/media/3-07-2024/V2-FwS.gif)
   
 #### More Resources
 * [Basic Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  
 * [Markdown Guide](https://www.markdownguide.org/)
+* [Codeacademy](https://www.codecademy.com/resources/docs/markdown)
 
 ### Authors and Acknowledgments
 This "README.md" has been authored by Jahidul Islam Rahat utilizing Markdown and GitHub Pages. Special appreciation goes to Andrew Etter for his book on Technical Writing, which served as a valuable resource.
@@ -129,4 +128,5 @@ And also Thanks to all my group members for helping me .
 - Markdown
 - Visual Studio Code
 - Dillinger
-- Git Hub
+- GitHub
+- JeKyll
